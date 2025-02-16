@@ -1,0 +1,1 @@
+Returns DNS type A record for a specified hostname.
