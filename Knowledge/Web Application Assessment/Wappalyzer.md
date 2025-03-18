@@ -1,0 +1,1 @@
+Online tool used to provide information on the different technology stacks used by a web server.

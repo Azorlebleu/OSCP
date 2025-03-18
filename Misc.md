@@ -18,6 +18,7 @@ locate file_name
 ```bash
 local.txt
 proof.txt
+flag.txt
 ```
 
 # Displaying file permissions
@@ -36,3 +37,9 @@ chmod -x filename # Removing them
 # Generating custom usernames
 
 [https://github.com/urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)
+
+# Copy / Paste not working
+```
+/usr/bin/vmtoolsd -n vmusr
+```
+
