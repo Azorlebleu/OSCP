@@ -43,3 +43,12 @@ chmod -x filename # Removing them
 /usr/bin/vmtoolsd -n vmusr
 ```
 
+# Expected screenshot
+```bash
+whoami
+hostname
+ipconfig
+type flag.txt
+```
+
+![[Pasted image 20250319220758.png]]

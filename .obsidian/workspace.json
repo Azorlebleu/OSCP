@@ -13,40 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Locating Exploits/Public/The Exploit Database.md",
+                "file": "Le R.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Exploit Database"
+              "title": "Le R"
             }
           },
           {
-            "id": "eed31244b71c0e57",
+            "id": "3d7c186d84094ded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course labs/11 - Client-side Attacks/1132 - Obtaining Code Execution via Windows Library Files.md",
+                "file": "Knowledge/Web Application Assessment/gobuster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1132 - Obtaining Code Execution via Windows Library Files"
+              "title": "gobuster"
             }
           },
           {
-            "id": "1136f3d4da422438",
+            "id": "76fe0cd6bf368ea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Reverse Shells/Powercat.md",
+                "file": "Knowledge/Connecting to a server/Ligolo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Powercat"
+              "title": "Ligolo"
             }
           }
         ]
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gobuster",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,52 +200,51 @@
   },
   "active": "185932a0ad1f4690",
   "lastOpenFiles": [
-    "Nouveau Document texte.txt",
+    "Knowledge/Web Application Assessment/gobuster.md",
+    "Knowledge/Information Gathering/Client-Side attacks/Oletools.md",
+    "Le R.md",
+    "Attachments/Pasted image 20250327231521.png",
+    "Attachments/Pasted image 20250327230834.png",
+    "Attachments/Pasted image 20250327230832.png",
+    "Attachments/Pasted image 20250327225653.png",
+    "Attachments/Pasted image 20250327225640.png",
+    "Attachments/Pasted image 20250327224713.png",
+    "Attachments/Pasted image 20250327223354.png",
+    "Attachments/Pasted image 20250327223045.png",
+    "Knowledge/Connecting to a server/SSH.md",
+    "Knowledge/Connecting to a server/Ligolo.md",
+    "Attachments/Pasted image 20250327213845.png",
+    "Attachments/Pasted image 20250327213828.png",
+    "Misc.md",
     "pen-200.pdf",
-    "Attachments/Pasted image 20250318234053.png",
-    "Attachments/Pasted image 20250318233556.png",
-    "Knowledge/Locating Exploits/Public/GitHub.md",
+    "Course labs/12 - Locating Public Exploits/1241 - Putting It Together.md",
+    "Challenge labs/OSCP A.md",
+    "Knowledge/File Transfer/WsgiDAV.md",
+    "Course labs/14 - Fixing Exploits/1413 - Cross-Compiling Exploit Code.md",
+    "Course labs/10 - SQL Injection Attacks/1032 - Capstone - 7.md",
+    "Knowledge/Connecting to a server/smbclient.md",
+    "Knowledge/Information Gathering/nmap.md",
+    "Knowledge/Vulnerability Scanning/Nmap Scripting Engine.md",
+    "Knowledge/Connecting to a server/xFreeRDP.md",
+    "Knowledge/Memory exploits/Wine.md",
+    "Challenge labs",
+    "Attachments/Challenge labs",
+    "Knowledge/Memory exploits/Mingw64.md",
+    "Course labs/14 - Fixing Exploits",
+    "Course labs/12 - Locating Public Exploits/Untitled",
+    "Knowledge/Memory/Untitled.md",
+    "Knowledge/Memory exploits",
+    "Knowledge/Web Application Assessment/nmap.md",
+    "Knowledge/Connecting to a server/Netexec & nxc.md",
+    "Knowledge/Connecting to a server/smbmap.md",
+    "Knowledge/Brute Forcing/CEWL.md",
+    "Knowledge/Connecting to a server/sendEmail.md",
+    "Knowledge/Connecting to a server/curl.md",
+    "Knowledge/Brute Forcing/Skweez.md",
+    "Course labs/12 - Locating Public Exploits",
+    "Nouveau Document texte.txt",
     "Knowledge/Locating Exploits/Offline",
     "Knowledge/Locating Exploits/Public",
-    "Knowledge/Locating Exploits/Public/Packet Storm.md",
-    "Knowledge/Locating Exploits/Public/The Exploit Database.md",
-    "Misc.md",
-    "Knowledge/File Transfer/PowerShell.md",
-    "Untitled.canvas",
-    "Knowledge/Locating Exploits",
-    "Knowledge/Reverse Shells/Windows Reverse shell using PowerCat.md",
-    "Knowledge/Reverse Shells/Revshells.md",
-    "Knowledge/Reverse Shells/Powercat.md",
-    "Knowledge/Misc/Find if we are running CMD or Powershell.md",
-    "Knowledge/Connecting to a server/sendEmail.md",
-    "Knowledge/Linux Specific tools",
-    "Knowledge/File Transfer",
-    "Course labs/11 - Client-side Attacks/1132 - Obtaining Code Execution via Windows Library Files.md",
-    "Knowledge/Connecting to a server/Telnet.md",
-    "Knowledge/Web Application Assessment/gobuster.md",
-    "Courses takeaways/11 - Client-side attacks.md",
-    "Knowledge/Connecting to a server",
-    "Tools/Untitled.md",
-    "Knowledge/Vulnerability Scanning/Nmap Scripting Engine.md",
-    "Knowledge/Information Gathering/snmpwalk.md",
-    "Knowledge/Web Application Assessment/nmap.md",
-    "Knowledge/Connecting to a server/smbclient.md",
-    "Attachments/Pasted image 20250317192750.png",
-    "Knowledge/Reverse Shells/Kali Reverse Shells.md",
-    "Course labs/10 - SQL Injection Attacks/1032 - Capstone - 6.md",
-    "Knowledge/Information Gathering/Client-Side attacks/Oletools.md",
-    "Knowledge/File Transfer/WsgiDAV.md",
-    "Knowledge/Misc/Virtual Environments.md",
-    "Tools/Misc/Untitled",
-    "Course labs/11 - Client-side Attacks/1123 - Leveraging Microsoft  Word Macros.md",
-    "Attachments/Pasted image 20250316135250.png",
-    "Knowledge/Information Gathering/Client-Side attacks",
-    "Attachments/Pasted image 20250316124543.png",
-    "Attachments/Pasted image 20250316124257.png",
-    "Course labs/11 - Client-side Attacks",
-    "Attachments/Pasted image 20250315150300.png",
-    "Attachments/Pasted image 20250315141923.png",
-    "Attachments/Pasted image 20250315115309.png",
-    "Attachments/Pasted image 20250315115014.png"
+    "Untitled.canvas"
   ]
 }

